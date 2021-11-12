@@ -1,0 +1,7 @@
+[compiler]
+source=source
+resource=resource
+
+[runtool]
+module=che.ceylon.samples.helloWorld
+compile=check
